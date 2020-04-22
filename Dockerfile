@@ -1,5 +1,5 @@
 FROM java
-MAINTAINER jack
+MAINTAINER samson
 RUN apt-get update
 RUN apt-get install -y wget
 
