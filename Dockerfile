@@ -1,5 +1,5 @@
 FROM java
-MAINTAINER samson
+MAINTAINER samsonllam
 RUN apt-get update
 RUN apt-get install -y wget
 
